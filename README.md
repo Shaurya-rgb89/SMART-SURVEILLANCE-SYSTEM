@@ -137,6 +137,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Author
 
 Developed by:
-1. [Vishesh Kumar Bhagat](https://github.com/VisheshKumarBhagat).
+1. [Shaurya Anand](https://github.com/Shaurya-rgb89).
 
 ---
